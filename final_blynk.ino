@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3fywnYzxV"
+#define BLYNK_TEMPLATE_ID "Blynk Template ID"
 #define BLYNK_TEMPLATE_NAME "Hydroponics"
-#define BLYNK_AUTH_TOKEN "Kw56P3_9XU076XcZ288JUVsIMWI3NyFG"
+#define BLYNK_AUTH_TOKEN "Blynk Auth Token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -12,8 +12,8 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // WiFi credentials
-char ssid[] = "OPPO A11k";
-char pass[] = "dhivya03";
+char ssid[] = "Your SSID";
+char pass[] = "Your Password";
 
 // Ultrasonic sensor pins
 #define TRIG_PIN 5  
