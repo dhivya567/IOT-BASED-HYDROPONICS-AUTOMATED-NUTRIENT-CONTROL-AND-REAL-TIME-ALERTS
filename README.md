@@ -26,3 +26,4 @@ Wires, Breadboard, Power Supply
 4)Temperature and Humidity readings are checked against ideal ranges, with alerts pushed via Blynk if needed.
 5)All data is sent to Blynk, where it can be viewed in real-time on a mobile dashboard.
 
+
